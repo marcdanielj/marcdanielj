@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marc, an <a href="https://linkedin.com/in/marc-os-j">IT Professional</a>☺</h1>
+<h1>Hi, I'm Marc, an up and coming <a href="https://linkedin.com/in/marc-os-j">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
